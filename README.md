@@ -6,4 +6,4 @@ I'm learning pyton in https://cognitiveclass.ai/ and sharing here in case I don'
 I'm sharing here cognitiveclass from the IBM university, but, I did some classes from Khan Academy and Code.org when I was little.
 My profil was @ilall in Khan Academy if you want to check out.
 
-To better see my corses go to my gists, https://gist.github.com/ilals, it's better ;)
+To better see my courses go to my gists, https://gist.github.com/ilals, it's better ;)
